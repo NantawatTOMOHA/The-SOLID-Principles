@@ -1,3 +1,3 @@
 # The-SOLID-Principles
-# book2 = book
-#Isp = rectangle
+# book = book2
+# Isp = rectangle
